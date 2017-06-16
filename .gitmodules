@@ -10,3 +10,6 @@
 [submodule "clipper"]
 	path = clipper
 	url = https://aur.archlinux.org/clipper.git
+[submodule "fftw2-float"]
+	path = fftw2-float
+	url = https://aur.archlinux.org/fftw2-float.git
