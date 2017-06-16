@@ -1,0 +1,9 @@
+[submodule "mmdb2"]
+	path = mmdb2
+	url = https://aur.archlinux.org/mmdb2.git
+[submodule "libccp4"]
+	path = libccp4
+	url = ssh://aur@aur.archlinux.org/libccp4.git
+[submodule "libssm"]
+	path = libssm
+	url = https://aur.archlinux.org/libssm.git
