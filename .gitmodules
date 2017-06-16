@@ -13,3 +13,18 @@
 [submodule "fftw2-float"]
 	path = fftw2-float
 	url = https://aur.archlinux.org/fftw2-float.git
+[submodule "rdkit-python2"]
+	path = rdkit-python2
+	url = https://aur.archlinux.org/rdkit-python2.git
+[submodule "goocanvas1"]
+	path = goocanvas1
+	url = https://aur.archlinux.org/goocanvas1.git
+[submodule "guile1.8-gui"]
+	path = guile1.8-gui
+	url = https://aur.archlinux.org/guile1.8-gui.git
+[submodule "guile1.8-lib"]
+	path = guile1.8-lib
+	url = https://aur.archlinux.org/guile1.8-lib.git
+[submodule "coot"]
+	path = coot
+	url = https://aur.archlinux.org/coot.git
