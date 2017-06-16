@@ -7,3 +7,6 @@
 [submodule "libssm"]
 	path = libssm
 	url = https://aur.archlinux.org/libssm.git
+[submodule "clipper"]
+	path = clipper
+	url = https://aur.archlinux.org/clipper.git
